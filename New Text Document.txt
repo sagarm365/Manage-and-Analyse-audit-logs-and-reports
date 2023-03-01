@@ -1,0 +1,10 @@
+SIMULATION: Create an alert policy for sharing of files externally.  Set to high severity.
+Step 1: log in to Microsoft defender portal
+Step 2: go to tab 'policies and ruels'
+step 3: click on 'alert policy' --> new alert policy
+step 4: name the policy, set severity as 'high' and set category as 'information governance' and click next
+step 5: Set activity is 'Shared file externally' 
+step 6: turn on radio button as 'every time an activity matches the rule'
+step 7: click next and add Email recipient
+step 8: review the settings 
+step 9: done and the policy made.
